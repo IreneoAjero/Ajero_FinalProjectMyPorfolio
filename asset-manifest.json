@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/IreneoAjero/Ajero_FinalProjectMyPorfolio.git/static/css/main.62f27f65.css",
+    "main.js": "/IreneoAjero/Ajero_FinalProjectMyPorfolio.git/static/js/main.14504eb5.js",
+    "index.html": "/IreneoAjero/Ajero_FinalProjectMyPorfolio.git/index.html",
+    "main.62f27f65.css.map": "/IreneoAjero/Ajero_FinalProjectMyPorfolio.git/static/css/main.62f27f65.css.map",
+    "main.14504eb5.js.map": "/IreneoAjero/Ajero_FinalProjectMyPorfolio.git/static/js/main.14504eb5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.62f27f65.css",
+    "static/js/main.14504eb5.js"
+  ]
+}
