@@ -1,0 +1,29 @@
+@import "tailwindcss";
+
+body {
+  background-color: #f5f2ed !important; /* Neutral Stone Beige */
+  color: #3c3836 !important; /* Deep Brown */
+  margin: 0;
+  font-family: 'Inter', sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* Forces the split-screen look */
+.hero-container {
+  display: grid;
+  grid-template-columns: 1.2fr 0.8fr;
+  gap: 80px;
+  padding: 80px 8%;
+  align-items: center;
+  min-height: 80vh;
+}
+
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 30px 8%;
+}
+
+.fancy-highlight { color: #4c2810e1 !important; } /* Burnt Orange */
+.fancy-text { color: #a89984 !important; font-style: italic; } /* Taupe */
